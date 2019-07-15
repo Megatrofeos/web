@@ -27,10 +27,4 @@ https://stackoverflow.com/questions/48702611/mqtt-connection-with-ionic-3
 
 
 
-
-99
-
-asdasd
-asdasdasdas
-asdasdasdasdasd
-asdasdasdasdasdasdasd
+prueba
